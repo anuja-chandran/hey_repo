@@ -1,2 +1,2 @@
 hey
- u r so brill
+ u r so brilliant
