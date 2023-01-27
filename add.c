@@ -27,4 +27,14 @@ void main()
         return;
 
 
+	
+		rintf("mul\n");
+	printf("mul\n");
+	printf("mul\n");
+	printf("mul\n");
+	printf("mul\n");
+	printf("mul\n");
+	printf("mul\n");
+	printf("mul\n");
+	printf("mul\n");
 	}	
